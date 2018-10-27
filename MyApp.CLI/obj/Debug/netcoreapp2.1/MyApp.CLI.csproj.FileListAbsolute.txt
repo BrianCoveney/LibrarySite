@@ -1,0 +1,11 @@
+/home/brian/Documents/code/MyApp/MyApp.CLI/bin/Debug/netcoreapp2.1/MyApp.CLI.deps.json
+/home/brian/Documents/code/MyApp/MyApp.CLI/bin/Debug/netcoreapp2.1/MyApp.CLI.runtimeconfig.json
+/home/brian/Documents/code/MyApp/MyApp.CLI/bin/Debug/netcoreapp2.1/MyApp.CLI.runtimeconfig.dev.json
+/home/brian/Documents/code/MyApp/MyApp.CLI/bin/Debug/netcoreapp2.1/MyApp.CLI.dll
+/home/brian/Documents/code/MyApp/MyApp.CLI/bin/Debug/netcoreapp2.1/MyApp.CLI.pdb
+/home/brian/Documents/code/MyApp/MyApp.CLI/obj/Debug/netcoreapp2.1/MyApp.CLI.csprojAssemblyReference.cache
+/home/brian/Documents/code/MyApp/MyApp.CLI/obj/Debug/netcoreapp2.1/MyApp.CLI.csproj.CoreCompileInputs.cache
+/home/brian/Documents/code/MyApp/MyApp.CLI/obj/Debug/netcoreapp2.1/MyApp.CLI.AssemblyInfoInputs.cache
+/home/brian/Documents/code/MyApp/MyApp.CLI/obj/Debug/netcoreapp2.1/MyApp.CLI.AssemblyInfo.cs
+/home/brian/Documents/code/MyApp/MyApp.CLI/obj/Debug/netcoreapp2.1/MyApp.CLI.dll
+/home/brian/Documents/code/MyApp/MyApp.CLI/obj/Debug/netcoreapp2.1/MyApp.CLI.pdb

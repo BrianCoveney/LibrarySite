@@ -1,0 +1,17 @@
+/home/brian/Documents/code/MyApp/MyApp.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/brian/Documents/code/MyApp/MyApp.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/brian/Documents/code/MyApp/MyApp.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/brian/Documents/code/MyApp/MyApp.Tests/bin/Debug/netcoreapp2.1/MyApp.Tests.deps.json
+/home/brian/Documents/code/MyApp/MyApp.Tests/bin/Debug/netcoreapp2.1/MyApp.Tests.runtimeconfig.json
+/home/brian/Documents/code/MyApp/MyApp.Tests/bin/Debug/netcoreapp2.1/MyApp.Tests.runtimeconfig.dev.json
+/home/brian/Documents/code/MyApp/MyApp.Tests/bin/Debug/netcoreapp2.1/MyApp.Tests.dll
+/home/brian/Documents/code/MyApp/MyApp.Tests/bin/Debug/netcoreapp2.1/MyApp.Tests.pdb
+/home/brian/Documents/code/MyApp/MyApp.Tests/bin/Debug/netcoreapp2.1/MyApp.CLI.dll
+/home/brian/Documents/code/MyApp/MyApp.Tests/bin/Debug/netcoreapp2.1/MyApp.CLI.pdb
+/home/brian/Documents/code/MyApp/MyApp.Tests/obj/Debug/netcoreapp2.1/MyApp.Tests.csprojAssemblyReference.cache
+/home/brian/Documents/code/MyApp/MyApp.Tests/obj/Debug/netcoreapp2.1/MyApp.Tests.csproj.CoreCompileInputs.cache
+/home/brian/Documents/code/MyApp/MyApp.Tests/obj/Debug/netcoreapp2.1/MyApp.Tests.AssemblyInfoInputs.cache
+/home/brian/Documents/code/MyApp/MyApp.Tests/obj/Debug/netcoreapp2.1/MyApp.Tests.AssemblyInfo.cs
+/home/brian/Documents/code/MyApp/MyApp.Tests/obj/Debug/netcoreapp2.1/MyApp.Tests.csproj.CopyComplete
+/home/brian/Documents/code/MyApp/MyApp.Tests/obj/Debug/netcoreapp2.1/MyApp.Tests.dll
+/home/brian/Documents/code/MyApp/MyApp.Tests/obj/Debug/netcoreapp2.1/MyApp.Tests.pdb
